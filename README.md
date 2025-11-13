@@ -1,7 +1,7 @@
 # Simpad Automation Project
 
-This repository contains the test automation scripts for the Simpad application
-
+This repository contains the test automation scripts for the Simpad application.
+Note:The Dispaly Scale should be set to 100% before running this project.
 ## Table of Contents
 
 - [Prerequisites](#Prerequisites)
