@@ -1,0 +1,19 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore Robot Framework output files
+results/
+output.xml
+log.html
+report.html
+
+# Ignore cache or temporary files
+__pycache__/
+*.pyc
+*.log
+*.tmp
+
+# Ignore MS Word docs or backups
+*.docx
+*.bak
